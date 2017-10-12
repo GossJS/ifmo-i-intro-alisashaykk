@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myknowledge>
+	<proc name = "study" />
+		<competency in="HTML" value="beginner" />
+		<competency in="CSS" value="beginer" />
+		<competency in="JavaScript" value="not started" />
+	<proc name = "actual" />
+		<competency in="Oracle" value="good" />
+		<competency in="XML" value="good" />
+		<competency in="MySQL" value="very good" />
+</myknowledge>
